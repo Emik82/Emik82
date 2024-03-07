@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA-engineer
 -----------
 
-Entry level manual testing engineer. I have been studying testing for 5 months, сompleted a course to become a testing engineer on Hexlet.
+Entry level manual testing engineer. I have been studying testing for 5 months, сompleted a course to become a testing engineer on [Hexlet](https://ru.hexlet.io/).
  I'm looking for an opportunity to start my professional journey as a testing intern . I'm interested in working remotely
 * 🌍  I'm based in Crimea
 * ✉️  You can contact me at [serwestr@yandex.ru](mailto:serwestr@yandex.ru)
